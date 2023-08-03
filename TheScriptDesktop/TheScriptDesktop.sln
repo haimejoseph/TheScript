@@ -1,6 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheScriptDesktop", "TheScriptDesktop\TheScriptDesktop.csproj", "{D762C751-E3AE-483F-A88C-7692247F893C}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheScriptDesktop", "TheScriptDesktop\TheScriptDesktop.csproj", "{D762C751-E3AE-483F-A88C-7692247F893C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheManWhoCantBeMoved", "TheManWhoCantBeMoved\TheManWhoCantBeMoved.csproj", "{B37C30F7-0A16-4453-A62D-AE1B4D753304}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +17,15 @@ Global
 		{D762C751-E3AE-483F-A88C-7692247F893C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D762C751-E3AE-483F-A88C-7692247F893C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D762C751-E3AE-483F-A88C-7692247F893C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37C30F7-0A16-4453-A62D-AE1B4D753304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37C30F7-0A16-4453-A62D-AE1B4D753304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37C30F7-0A16-4453-A62D-AE1B4D753304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37C30F7-0A16-4453-A62D-AE1B4D753304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AE344E7-1514-4D81-803C-D1DE45E90A10}
 	EndGlobalSection
 EndGlobal
