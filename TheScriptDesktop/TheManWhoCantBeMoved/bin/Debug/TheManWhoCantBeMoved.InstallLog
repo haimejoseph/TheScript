@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.exe
+   logfile = C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.exe assembly.
+Committing assembly 'C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.exe
+   logfile = C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.exe
+   logfile = C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.InstallLog
+Installing service TheManWhoCantBeMoved...
+Service TheManWhoCantBeMoved has been successfully installed.
+Creating EventLog source TheManWhoCantBeMoved in log Application...
+Committing assembly 'C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.exe
+   logfile = C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.InstallLog

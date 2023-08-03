@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\buen.yson\\Documents\\GitHub\\TheScript\\TheScriptDesktop\\TheScriptDesktop\\TheScriptDesktop.csproj": {}
+    "C:\\Users\\haime.reyes\\Haime\\C#\\TheScript\\TheScriptDesktop\\TheScriptDesktop\\TheScriptDesktop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\buen.yson\\Documents\\GitHub\\TheScript\\TheScriptDesktop\\TheScriptDesktop\\TheScriptDesktop.csproj": {
+    "C:\\Users\\haime.reyes\\Haime\\C#\\TheScript\\TheScriptDesktop\\TheScriptDesktop\\TheScriptDesktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\buen.yson\\Documents\\GitHub\\TheScript\\TheScriptDesktop\\TheScriptDesktop\\TheScriptDesktop.csproj",
+        "projectUniqueName": "C:\\Users\\haime.reyes\\Haime\\C#\\TheScript\\TheScriptDesktop\\TheScriptDesktop\\TheScriptDesktop.csproj",
         "projectName": "TheScriptDesktop",
-        "projectPath": "C:\\Users\\buen.yson\\Documents\\GitHub\\TheScript\\TheScriptDesktop\\TheScriptDesktop\\TheScriptDesktop.csproj",
+        "projectPath": "C:\\Users\\haime.reyes\\Haime\\C#\\TheScript\\TheScriptDesktop\\TheScriptDesktop\\TheScriptDesktop.csproj",
         "packagesPath": "C:\\nuget\\packages",
-        "outputPath": "C:\\Users\\buen.yson\\Documents\\GitHub\\TheScript\\TheScriptDesktop\\TheScriptDesktop\\obj\\",
+        "outputPath": "C:\\Users\\haime.reyes\\Haime\\C#\\TheScript\\TheScriptDesktop\\TheScriptDesktop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\buen.yson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\haime.reyes\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

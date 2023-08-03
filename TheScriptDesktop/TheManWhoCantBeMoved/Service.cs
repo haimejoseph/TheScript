@@ -38,7 +38,7 @@ namespace TheManWhoCantBeMoved
             EventLog.WriteEntry("SampleService", message, EventLogEntryType.Information);
 
             // Replace with your SQL Server connection string
-            string connectionString = "Data Source=Your_Server;Initial Catalog=Your_Database;Integrated Security=True";
+            string connectionString = "Data Source=DBKDVW10-HREY;Initial Catalog=QA_ExpDev_FY1819;Integrated Security=True";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
