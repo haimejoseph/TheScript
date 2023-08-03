@@ -29,8 +29,14 @@ namespace TheManWhoCantBeMoved
         /// </summary>
         private void InitializeComponent()
         {
-            this.ServiceName = "TheManWhoCantBeMoved"; // Service Installer Configuration
-            this.CanPauseAndContinue = false; this.CanShutdown = true; this.CanHandleSessionChangeEvent = true; this.AutoLog = true; }
+            this.ServiceName = "SampleService";
+
+            // Service Installer Configuration
+            this.CanPauseAndContinue = false;
+            this.CanShutdown = true;
+            this.CanHandleSessionChangeEvent = true;
+            this.AutoLog = true;
+        }
 
         #endregion
 
