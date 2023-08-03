@@ -29,14 +29,13 @@ namespace TheManWhoCantBeMoved
         /// </summary>
         private void InitializeComponent()
         {
-            this.ServiceName = "Service";
-            ((System.ComponentModel.ISupportInitialize)(this.eventLog1)).BeginInit();
-            // 
-            // eventLog1
-            // 
-            this.eventLog1.Log = "Application";
-            this.eventLog1.Source = "Service";
-            ((System.ComponentModel.ISupportInitialize)(this.eventLog1)).EndInit();
+            this.ServiceName = "SampleService";
+
+            // Service Installer Configuration
+            this.CanPauseAndContinue = false;
+            this.CanShutdown = true;
+            this.CanHandleSessionChangeEvent = true;
+            this.AutoLog = true;
         }
 
         #endregion
