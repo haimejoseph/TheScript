@@ -1,0 +1,9 @@
+C:\Users\buen.yson\Documents\GitHub\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.exe.config
+C:\Users\buen.yson\Documents\GitHub\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.exe
+C:\Users\buen.yson\Documents\GitHub\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\bin\Debug\TheManWhoCantBeMoved.pdb
+C:\Users\buen.yson\Documents\GitHub\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\obj\Debug\TheManWhoCantBeMoved.csprojAssemblyReference.cache
+C:\Users\buen.yson\Documents\GitHub\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\obj\Debug\TheManWhoCantBeMoved.Service.resources
+C:\Users\buen.yson\Documents\GitHub\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\obj\Debug\TheManWhoCantBeMoved.csproj.GenerateResource.cache
+C:\Users\buen.yson\Documents\GitHub\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\obj\Debug\TheManWhoCantBeMoved.csproj.CoreCompileInputs.cache
+C:\Users\buen.yson\Documents\GitHub\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\obj\Debug\TheManWhoCantBeMoved.exe
+C:\Users\buen.yson\Documents\GitHub\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\obj\Debug\TheManWhoCantBeMoved.pdb
