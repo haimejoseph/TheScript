@@ -101,7 +101,7 @@ namespace MI24_TheScriptApp {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MI24_TheScriptApp;component/mainwin.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MI24_TheScriptApp;V1.0.0.0;component/mainwin.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\MainWin.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

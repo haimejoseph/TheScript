@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ho2v/WSE9En1ad/8QiJMGEBAz7kFRe0oMpb++t1yM7j3c/UFO1iIs8EBbbTqddJsTG51ntj/TZxluSv4dw6ZZg==",
+  "dgSpecHash": "xP+f+3hlXQoZZc7NYcOiZegduLIDRIyxEkvsjDF0knBUGrzK95SVM5LIUBCCBM1uphB12coaDvJMq0iynz5rSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Faithfull Coronel\\source\\repos\\MI24_TheScriptApp\\MI24_TheScriptApp.csproj",
+  "projectFilePath": "C:\\Users\\Faithfull Coronel\\Documents\\GitHub\\TheScript\\MI24_TheScriptApp\\MI24_TheScriptApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Faithfull Coronel\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Faithfull Coronel\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

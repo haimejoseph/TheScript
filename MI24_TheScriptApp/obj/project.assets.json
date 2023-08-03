@@ -520,11 +520,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Faithfull Coronel\\source\\repos\\MI24_TheScriptApp\\MI24_TheScriptApp.csproj",
+      "projectUniqueName": "C:\\Users\\Faithfull Coronel\\Documents\\GitHub\\TheScript\\MI24_TheScriptApp\\MI24_TheScriptApp.csproj",
       "projectName": "MI24_TheScriptApp",
-      "projectPath": "C:\\Users\\Faithfull Coronel\\source\\repos\\MI24_TheScriptApp\\MI24_TheScriptApp.csproj",
+      "projectPath": "C:\\Users\\Faithfull Coronel\\Documents\\GitHub\\TheScript\\MI24_TheScriptApp\\MI24_TheScriptApp.csproj",
       "packagesPath": "C:\\Users\\Faithfull Coronel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Faithfull Coronel\\source\\repos\\MI24_TheScriptApp\\obj\\",
+      "outputPath": "C:\\Users\\Faithfull Coronel\\Documents\\GitHub\\TheScript\\MI24_TheScriptApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

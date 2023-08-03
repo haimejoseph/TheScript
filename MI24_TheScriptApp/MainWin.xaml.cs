@@ -1,4 +1,5 @@
 ﻿using MI24_TheScriptApp.Listener;
+using MI24_TheScriptApp.Service;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -69,18 +70,24 @@ namespace MI24_TheScriptApp
         //CompareB-Start
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-
+            SqlListener.StartEventListener();
         }
 
 
         //CompareB-Stop
         private void Button_Click_4(object sender, RoutedEventArgs e)
         {
-
+            compareB = SqlListener.StopEventListener();
+            Processor.ProcessCompare(compareA, compareB);
         }
 
         //CompareB-Clear
         private void Button_Click_5(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click_6(object sender, RoutedEventArgs e)
         {
 
         }

@@ -19,7 +19,7 @@
         <Button x:Name="btnCompareAStart" Content="Start" HorizontalAlignment="Left" Margin="38,63,0,0" VerticalAlignment="Top" Height="34" Width="105" Grid.Column="1" BorderBrush="#FF30FF00" Background="#FF9AFF00" Click="Button_Click"/>
         <Button x:Name="btnCompareAStop" Content="Stop" HorizontalAlignment="Left" Margin="142,63,0,0" VerticalAlignment="Top" Height="34" Width="106" Grid.Column="1" Background="#FFFF9D00" BorderBrush="#FFFF0029" Click="Button_Click_1"/>
         <TextBox HorizontalAlignment="Left" Margin="38,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="683" Height="111" IsEnabled="False" Grid.Column="1"/>
-        <Button Grid.Column="1" Content="Generate Scripting Report" HorizontalAlignment="Center" Margin="0,228,0,0" VerticalAlignment="Top" Height="28" Width="158"/>
+        <Button Grid.Column="1" Content="Generate Scripting Report" HorizontalAlignment="Center" Margin="0,228,0,0" VerticalAlignment="Top" Height="28" Width="158" Click="Button_Click_6"/>
         <Label Grid.Column="1" Content="The Script App" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Height="28" Width="96" FontWeight="Bold"/>
         <Button x:Name="btnCompareBStart" Content="Start" HorizontalAlignment="Left" Margin="406,63,0,0" VerticalAlignment="Top" Height="34" Width="105" Grid.Column="1" BorderBrush="#FF30FF00" Background="#FF9AFF00" Click="Button_Click_3"/>
         <Button x:Name="btnCompareBStop" Content="Stop" HorizontalAlignment="Left" Margin="511,63,0,0" VerticalAlignment="Top" Height="34" Width="106" Grid.Column="1" Background="#FFFF9D00" BorderBrush="#FFFF0029" Click="Button_Click_4"/>

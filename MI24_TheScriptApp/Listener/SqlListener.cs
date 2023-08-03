@@ -14,7 +14,57 @@ namespace MI24_TheScriptApp.Listener
 
         public static void StartEventListener()
         {
+            var connection = new SqlConnection("Server=DBKDVW10-HREY;Database=QA_ExpDev_Sec;uid=sa;pwd=Sql.Admin;");
+            connection.Open();
 
+            // Listen and process the captured events continuously
+            var command = new SqlCommand();
+
+            command.Connection = connection;
+            string query = @"
+            DROP EVENT SESSION MyEventSession
+            ON SERVER
+
+            CREATE EVENT SESSION MyEventSession ON SERVER
+            ADD EVENT sqlserver.sql_batch_completed(
+                ACTION(sqlserver.database_id)
+                WHERE(
+                    (sqlserver.sql_text like '%INSERT%'
+                            OR sqlserver.sql_text like '%UPDATE%'
+                            OR sqlserver.sql_text like '%DELETE%'
+                            OR sqlserver.sql_text like '%SELECT%')
+                )
+            ),
+            ADD EVENT sqlserver.rpc_completed(
+                ACTION(sqlserver.database_id)
+                WHERE(
+                    (sqlserver.sql_text like '%INSERT%'
+                            OR sqlserver.sql_text like '%UPDATE%'
+                            OR sqlserver.sql_text like '%DELETE%'
+                            OR sqlserver.sql_text like '%SELECT%')
+                )
+            ),
+            ADD EVENT sqlserver.sql_statement_completed(
+                ACTION(sqlserver.database_id)
+                WHERE(
+                    (sqlserver.sql_text like '%INSERT%'
+                            OR sqlserver.sql_text like '%UPDATE%'
+                            OR sqlserver.sql_text like '%DELETE%'
+                            OR sqlserver.sql_text like '%SELECT%')
+                )
+            ),
+            ADD EVENT sqlserver.error_reported(
+                ACTION(sqlserver.database_id)
+            )
+            ADD TARGET package0.ring_buffer
+            WITH(
+                MAX_MEMORY = 4096 KB,
+                EVENT_RETENTION_MODE = ALLOW_SINGLE_EVENT_LOSS,
+                MAX_DISPATCH_LATENCY = 30 SECONDS
+            )
+            ALTER EVENT SESSION MyEventSession ON SERVER STATE = START";
+            command.CommandText = query;
+            command.ExecuteNonQuery();
         }
 
         public static string StopEventListener()
