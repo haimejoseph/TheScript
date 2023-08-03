@@ -16,3 +16,4 @@ C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\ob
 C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\obj\Debug\TheManWhoCantBeMoved.exe
 C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\obj\Debug\TheManWhoCantBeMoved.pdb
 C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\obj\Debug\TheManWhoCantBeMoved.ProjectInstaller.resources
+C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheManWhoCantBeMoved\obj\Debug\TheManWhoCantBeMoved.csproj.AssemblyReference.cache

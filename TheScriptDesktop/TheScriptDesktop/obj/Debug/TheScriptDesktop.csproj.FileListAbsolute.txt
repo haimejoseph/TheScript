@@ -1,0 +1,10 @@
+C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheScriptDesktop\bin\Debug\TheScriptDesktop.exe.config
+C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheScriptDesktop\bin\Debug\TheScriptDesktop.exe
+C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheScriptDesktop\bin\Debug\TheScriptDesktop.pdb
+C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheScriptDesktop\obj\Debug\TheScriptDesktop.csproj.AssemblyReference.cache
+C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheScriptDesktop\obj\Debug\TheScriptDesktop.Form1.resources
+C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheScriptDesktop\obj\Debug\TheScriptDesktop.Properties.Resources.resources
+C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheScriptDesktop\obj\Debug\TheScriptDesktop.csproj.GenerateResource.cache
+C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheScriptDesktop\obj\Debug\TheScriptDesktop.csproj.CoreCompileInputs.cache
+C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheScriptDesktop\obj\Debug\TheScriptDesktop.exe
+C:\Users\haime.reyes\Haime\C#\TheScript\TheScriptDesktop\TheScriptDesktop\obj\Debug\TheScriptDesktop.pdb

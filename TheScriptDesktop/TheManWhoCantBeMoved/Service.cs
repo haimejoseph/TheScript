@@ -32,7 +32,6 @@ namespace TheManWhoCantBeMoved
 
         private void OnTimerElapsed(object sender, ElapsedEventArgs e)
         {
-            var asr = "asd";
             // Write a log entry to the Windows Event Log
             string message = "Sample Windows Service Log Entry at " + DateTime.Now;
             EventLog.WriteEntry("SampleService", message, EventLogEntryType.Information);
